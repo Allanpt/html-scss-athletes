@@ -4,6 +4,7 @@
   --column-count: 2;
 
   display: grid;
+  margin-top: 30px;
   justify-content: center;
   column-gap: 20px;
   grid-template-columns: repeat(var(--column-count), auto);
